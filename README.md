@@ -48,4 +48,13 @@ I developed this project as part of the academic requirement and the initiative 
 ### Home Screen
 ![Home Screen](screenshots/Home.png)
 
+### Image Chooser
+![Image Chooser](screenshots/ImageChooser.png)
+
+### Similarity
+![Similarity](screenshots/Similarity.png)
+
+### PathFinder
+![PathFinder](screenshots/PathFinder.png)
+
 
